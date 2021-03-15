@@ -1,0 +1,11 @@
+body {
+    background: url('https://i.pinimg.com/originals/0a/0d/60/0a0d60b1fdffd38189d05240574a0b78.jpg') no-repeat center;
+    background-size: cover;
+    text-align: center  ;    
+    font-family: Imprint MT Shadow;
+    font-size: larger;
+}
+
+h1, h2, p {
+  color: gold;
+}
