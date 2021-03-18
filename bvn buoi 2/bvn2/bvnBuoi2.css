@@ -1,0 +1,46 @@
+#rcorners {
+    border-radius: 25px;
+    border: 2px solid #000000;
+    padding: 20px; 
+    width: 200px;
+}
+
+#line1, #line2 {
+    display: inline;
+    color: rgba(254, 123, 129);
+}
+
+#line1 {
+    font-size: larger;
+}
+
+#line2 {
+    font-size: medium;
+}
+
+li, #description {
+    color: rgba(157, 161, 169);
+    font-size: medium;
+}
+
+button {
+    border-radius: 10px;
+    background-color: rgba(65, 129, 255);
+    color: white;
+    width: 200px;
+    height: 80px;
+    text-align: left;
+    font-size: medium;
+}
+#butt {
+    align-items: center;
+}
+
+#butLine1, #butLine2 {
+    display: inline; 
+    font-size: large;   
+}
+
+span {
+    float: right;
+}
