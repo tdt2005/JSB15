@@ -1,0 +1,151 @@
+body {
+    width: max-content;
+}
+
+.site {
+    display: flex;
+    height: 100vh;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to right, #ECF0FF 50%, white 50%
+    );
+}
+
+.name {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.p1 {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.about {
+    display: flex;
+    height: 100vh;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.profile {
+    display: flex;
+    height: 750px;
+    width: 600px;
+}
+
+
+.textAbout {
+    display: flex;
+    height: 800px;
+    width: 600px;
+    flex-direction: column;
+    margin-left: 30px;
+}
+
+.headName {
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+
+.info {
+    display: flex;
+    flex-direction: row ;
+}
+
+.RColumn {
+    margin-left: 50px;
+    width: 305px;
+    height: 90px;
+    color: gray;
+}
+
+button {
+    width: 250px;
+    height: 80px;
+    border-radius: 20px;
+    margin-left: 50px;
+    background: blue;
+    text-align: center;
+    color: white;
+}
+
+.p3 {
+    display: flex;
+    height: 100vh;
+    flex-direction: row;
+    justify-content: center;
+    margin-left: 100px;
+}
+.Lside {
+    margin-left: 50px;
+    margin-top: 20px;
+    width: 900px;
+} 
+
+.activities {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.box {
+    display: flex;
+    flex-direction: row;
+    width: 100vh;
+    justify-content: center;
+}
+.pic1 {
+    display: flex;
+    width: 200px;
+    height: 200px;
+    margin-left: 700px;
+}
+.pic2 {
+    display: flex;
+    width: 200px;
+    height: 200px;
+    margin-left: 100px;
+}
+.pic3 {
+    display: flex;
+    width: 200px;
+    height: 200px;
+    margin-left: 300px;
+}
+.container {
+    display: flex;
+    width: 1024x;
+    flex-direction: row;
+    justify-content: center;    
+}
+.smallBox1, .smallBox2, .smallBox3, .smallBox4 {
+    text-align: center;
+    border: solid 2px;
+    width: 250px;
+    height: 250px;
+    box-shadow: gray 5px 10px;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+
+.help {
+    display: flex;
+    flex-direction: column;
+    background-color: gray;
+    height: 500px;
+    width: 500px;
+    align-items: center;
+    justify-content: center;
+
+}
+input {
+    width: 400px;
+    height: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 50px;
+}
