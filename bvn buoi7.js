@@ -55,3 +55,14 @@ let user = prompt("Nhap so ban muonthem vao: ")
 console.log(number.push(user))
 
 //bai 3
+let a = prompt("nhap canh a: ")
+let b = prompt("nhap canh b: ")
+let c = prompt("nhap canh c: ")
+let d = prompt("nhap canh d: ")
+if (a != b != c != d) {
+    console.log("day la tu giac")
+} else if (a == b == c == d) {
+    console.log("day la hinh vuong")
+} else if (a == c && b == d) {
+    console.log("day la hinh chu nhat")
+}
