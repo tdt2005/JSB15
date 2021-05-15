@@ -7,5 +7,9 @@ function calculate() {
     change()
 }
 function change() {
-    if 
+    if () {
+        document.getElementById('result').innerHTML = bmr_male
+    } else if () {
+        document.getElementById('result').innerHTML = bmr_male
+    }
 }
