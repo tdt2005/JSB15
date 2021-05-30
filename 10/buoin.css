@@ -1,0 +1,11 @@
+#ButtonReset,.number,.operater,#equal{
+    border-radius: 12px;
+}
+
+.ButtonBox {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100px;
+    height: 30px;
+}
